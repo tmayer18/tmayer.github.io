@@ -1,5 +1,4 @@
 ---
-layout: project
+layout: project_browse
 title: Projects
 ---
-
