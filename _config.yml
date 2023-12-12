@@ -83,6 +83,13 @@ defaults:
     values:
       layout: page
 
+  -
+    scope:
+      type: 'projects'
+      path: ''
+    values:
+      layout: 'project' # all _projects collection members use this layout by default
+
 # Collections
 collections:
   projects:
