@@ -1,6 +1,6 @@
 ---
 title: Bioinspired Robotic Jellyfish Actuation
-image: /assets/images/Jellyfish_innards.jpg
+image: assets/images/Jellyfish_innards.jpg
 description: Experimental bioinspired jellyfish actuator, for comparing thruster efficiency with classic propulsion.
 ---
 Jellyfish are one of the most efficient swimmers in the sea, and replicating their high efficiency in robotic systems would be particularly helpful for long-duration underwater missions where battery life is prioritized over speed. In CMUs Bioinspired Robot Design and Experimentation course, my team of three designed and tested a jellyfish robot and compared its operation to more conventional propeller thrust designs
