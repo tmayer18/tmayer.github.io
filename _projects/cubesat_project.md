@@ -1,7 +1,7 @@
 ---
-title: Cubesat Design-Build-Fly
+title: ARGUS-1 Cubesat Design-Build-Fly
 layout: project
-description: Comm/Ops for CMU's first student-led CubeSat design course
+description: Comm/Ops for CMU's first student-led CubeSat design course. Argus-1 will do edge orbit determination using computer vision.
 image: /assets/images/Argus%20Satellite.png
 ---
 
